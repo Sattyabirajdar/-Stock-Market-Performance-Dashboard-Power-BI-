@@ -1,6 +1,7 @@
 # -Stock-Market-Performance-Dashboard-Power-BI-
 
 This repository contains an interactive **Power BI dashboard** analyzing **S&P 500 Stock Market Data (2014–2017)**. The report covers stock prices, trading volumes, volatility trends, and performance insights using dynamic visuals and DAX measures.
+<img width="1371" height="744" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/ba4d2bd9-bd33-4daf-918f-4bcd01277c7a" />
 
 ---
 
